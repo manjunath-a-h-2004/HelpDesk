@@ -1,5 +1,8 @@
 # HelpDesk Management System
 
+> **Repository Owner**: Veeresh Amaragatti ([@Veereshamaragatti](https://github.com/Veereshamaragatti))  
+> **Collaborative Project**: Developed in collaboration with team members
+
 The HelpDesk Management System is a web application designed to facilitate knowledge sharing and problem-solving within an organization or community. Users can post questions, share solutions, comment on posts, and vote for helpful content. The system includes user authentication, content moderation, and comprehensive admin features.
 
 ## Tech Stack
